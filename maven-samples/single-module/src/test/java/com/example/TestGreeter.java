@@ -25,7 +25,7 @@ public class TestGreeter {
   }
   @Test
   public void custMethod() {
-    assertTrue(true);
+    assertTrue(false);
   }
 
 
